@@ -44,6 +44,6 @@ amostras, orientações sobre desenvolvimento para dispositivos móveis e uma re
 
 ## 📝 Licença
 
-Este projeto esta sobe a licença MIT. Veja a [LICENÇA](https://github.com/CaiqueR/caique-shoes/blob/master/LICENSE.md) para saber mais.
+Este projeto esta sobe a licença MIT. Veja a [LICENÇA](https://github.com/CaiqueR/todo_mobx/blob/master/LICENSE) para saber mais.
 
 Feito com ❤️ por Caique Ribeiro 👋🏽 [Entre em contato!](https://www.linkedin.com/in/caiquer/)
