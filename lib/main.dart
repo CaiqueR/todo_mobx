@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:google_fonts/google_fonts.dart';
 import 'package:provider/provider.dart';
 import 'package:todo_mobx/screens/list_screen.dart';
 import 'package:todo_mobx/screens/login_screen.dart';
@@ -15,11 +16,12 @@ class MyApp extends StatelessWidget {
         title: 'MobX Todo',
         debugShowCheckedModeBanner: false,
         theme: ThemeData(
+          textTheme: GoogleFonts.poppinsTextTheme(),
           primaryColor: Colors.deepPurpleAccent,
           cursorColor: Colors.deepPurpleAccent,
           scaffoldBackgroundColor: Colors.deepPurpleAccent,
         ),
-        home: ListScreen(),
+        home: LoginScreen(),
       ),
     );
   }
