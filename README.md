@@ -1,7 +1,7 @@
 # 📝 Todo MobX
 
 <p align="center">
-  <a href="https://caique-shoes.vercel.app/" target="_blank">
+  <a href="https://caiquer.github.io/todo_mobx/#/" target="_blank">
     <img alt="Caique Shoes" src="https://media.giphy.com/media/ge3FiUyVyYJmXGuKmW/giphy.gif">
   </a>
 </p>
