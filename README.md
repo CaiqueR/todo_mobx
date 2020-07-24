@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://caiquer.github.io/todo_mobx/#/" target="_blank">
-    <img alt="Caique Shoes" src="https://media.giphy.com/media/ge3FiUyVyYJmXGuKmW/giphy.gif">
+    <img alt="Caique Shoes" src="https://s7.gifyu.com/images/NovoGif.gif" height="500">
   </a>
 </p>
 
